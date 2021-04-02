@@ -1,14 +1,14 @@
 //Declaring the value for container
-const scheduleContainer = $(".container");
+//const scheduleContainer = $(".container");
 
 // Declare the function to get time
 const currentTime = () => {
   const currentDay = $("#currentDay");
-  const currentTime = moment().format("dddd, MMMM Do");
+  const currentTime = moment().format("dddd, MMMM Do, YYYY");
   currentDay.text(currentTime);
 };
 
-//setInterval(currentTime, 1000);
+//setInterval(currentTime, 1000); (for minutes stuff)
 // function to add textarea data to local storage
 const renderTextArea = () => {
   const plannerEvents = JSON.parse(localStorage.getItem("plannerEvents"));
@@ -44,7 +44,7 @@ const renderTextArea = () => {
 };
 
 //on button click get items from local storage into planner
-const onclick = function (event) {
+const onClick = function (event) {
   const plannerEvents = JSON.parse(localStorage.getItem("plannerEvents"));
   const target = $(event.target);
   // const currentTarget = $(event.currentTarget);
