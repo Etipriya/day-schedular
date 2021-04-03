@@ -30,12 +30,12 @@ We have created:
   ![image](assets/images/previous_layout.png)
 
 - After Refractor
-  ![image](.\assets/images/latest%20layout.png)
+  ![image](assets/images/latest%20layout.png)
 
 - Image with color code
-  ![image](.\assets/images/color_code.png)
+  ![image](assets/images/color_code.png)
 
-  ![image](.\assets/images/before_time%20_came_up.png)
+  ![image](assets/images/before_time%20_came_up.png)
 
 ## Link to deployed application
 
