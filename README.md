@@ -33,6 +33,8 @@ We have created:
   ![image](.\assets/images/latest%20layout.png)
 
 - Image with color code
+  ![image](.\assets/images/color_code.png)
+
   ![image](.\assets/images/before_time%20_came_up.png)
 
 ## Link to deployed application
