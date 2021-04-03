@@ -27,7 +27,7 @@ We have created:
 ## Screenshots
 
 - Before Refractor
-  ![image](.\assets/images/previous_layout.png)
+  ![image](assets/images/previous_layout.png)
 
 - After Refractor
   ![image](.\assets/images/latest%20layout.png)
