@@ -26,8 +26,14 @@ We have created:
 
 ## Screenshots
 
-- earlier page
-  ![image](.\assests/images/previous_layout.png)
+- Before Refractor
+  ![image](.\assets/images/previous_layout.png)
+
+- After Refractor
+  ![image](.\assets/images/latest%20layout.png)
+
+- Image with color code
+  ![image](.\assets/images/before_time%20_came_up.png)
 
 ## Link to deployed application
 
